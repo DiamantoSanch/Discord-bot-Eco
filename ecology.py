@@ -23,4 +23,3 @@ async def eco(ctx):
         text = discord.File(f)
     await ctx.send(text)
 
-bot.run("MTE0NDk2MDIwNjM1NTMwMDM4Mg.GGnCWB.qshsFMZSgE97nUKm_v3b0qxQOTBv3869OE-vJI")
